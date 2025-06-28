@@ -13,4 +13,10 @@ Mais exemplos de implementação (todos utilizando OpenTelemetry + Semantic Kern
 - [Application Insights](https://github.com/renatogroffe/dotnet9-semantickernel-postgres-otel-azureappinsights_consultaprodutos)
 - [Elastic APM](https://github.com/renatogroffe/dotnet9-semantickernel-postgres-otel-elasticapm_consultaprodutos)
 - [Grafana](https://github.com/renatogroffe/dotnet9-semantickernel-postgres-otel-grafana_consultaprodutos)
-- [Jaeger](https://github.com/renatogroffe/dotnet9-semantickernel-postgres-otel-jaeger_consultaproduto
+- [Jaeger](https://github.com/renatogroffe/dotnet9-semantickernel-postgres-otel-jaeger_consultaproduto)
+
+---
+
+## Um exemplo de arquitetura
+
+![Arquitetura](docs/observabilidade-ias.png)
