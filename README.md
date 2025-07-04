@@ -20,3 +20,7 @@ Mais exemplos de implementação (todos utilizando OpenTelemetry + Semantic Kern
 ## Um exemplo de arquitetura
 
 ![Arquitetura](docs/observabilidade-ias.png)
+
+---
+
+https://developer.microsoft.com/en-us/reactor/events/26013/?wt.mc_id=1reg_26013_webpage_reactor
