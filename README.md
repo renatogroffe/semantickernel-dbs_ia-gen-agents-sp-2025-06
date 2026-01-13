@@ -31,7 +31,7 @@ Descritivo: *Confira nesta apresentação como tirar proveito de forma descompli
 
 Evento: **IA Generativa e Agents com Azure**
 
-Data: **07/06/2025 (sábado)**
+Data: **28/06/2025 (sábado)**
 
 Tecnologias e tópicos abordados: **.NET 9, Semantic Kernel, Azure OpenAI, Ollama, OpenTelemetry, Observabilidade, tecnologias cloud native, containers, Docker, Docker Compose, SQL Server, Azure SQL, PostgreSQL, MySQL, Oracle, Application Insights, Azure Monitor, Jaeger, Grafana, Grafana Tempo, Loki, Grafana Alloy, Zipkin, Elastic APM, Java, Visual Studio Code, Linux, Python...**
 
