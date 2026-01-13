@@ -47,6 +47,6 @@ Deixo aqui meus agradecimentos à **Cynthia Zanoni (Global Cloud Advocate - Micr
 
 ---
 
-![Renato palestrando 1](img/agentcon-12.jpg)
+![Renato palestrando 1](img/renato-11.jpeg)
 
-![Renato palestrando 2](img/agentcon-13.jpg)
+![Renato palestrando 2](img/renato-15.jpeg)
