@@ -23,4 +23,30 @@ Mais exemplos de implementação (todos utilizando OpenTelemetry + Semantic Kern
 
 ---
 
-https://developer.microsoft.com/en-us/reactor/events/26013/?wt.mc_id=1reg_26013_webpage_reactor
+## Informações sobre o evento
+
+Título da apresentação: **Utilizando seus Dados em Bases Relacionais com IAs Generativas: um exemplo com Semantic Kernel**
+
+Descritivo: *Confira nesta apresentação como tirar proveito de forma descomplicada de seus dados que estejam em bases transacionais com aplicações que utilizem capacidades de inteligência artificiais generativas, seja um banco SQL Server, PostgreSQL, MySQL, Oracle... Tudo isso através do uso do projeto Semantic Kernel, uma alternativa extensível, facilmente integrável a aplicações .NET, Java e Python, além de compatível com os principais modelos de IA do mercado (incluindo suporte a Azure OpenAI, Llama...)!*
+
+Evento: **IA Generativa e Agents com Azure**
+
+Data: **07/06/2025 (sábado)**
+
+Tecnologias e tópicos abordados: **.NET 9, Semantic Kernel, Azure OpenAI, Ollama, OpenTelemetry, Observabilidade, tecnologias cloud native, containers, Docker, Docker Compose, SQL Server, Azure SQL, PostgreSQL, MySQL, Oracle, Application Insights, Azure Monitor, Jaeger, Grafana, Grafana Tempo, Loki, Grafana Alloy, Zipkin, Elastic APM, Java, Visual Studio Code, Linux, Python...**
+
+Número de participantes: **137 pessoas**
+
+Página do evento: **https://developer.microsoft.com/en-us/reactor/events/26013/?wt.mc_id=1reg_26013_webpage_reactor**
+
+Local: **FIAP - Aclimação - Avenida Lins de Vasconcelos, 1222 - Aclimação - São Paulo-SP - CEP: 01538-001**
+
+Acesse este [**link**](/img/) para visualizar todas as fotos/prints da apresentação.
+
+Deixo aqui meus agradecimentos à **Cynthia Zanoni (Global Cloud Advocate - Microsoft, WoMakersCode)**, à **Larissa Cyganski (Microsoft Reactor)** e ao **Renato Romão (Microsoft MVP)** por todo o apoio para que eu participasse como palestrante deste evento.
+
+---
+
+![Renato palestrando 1](img/agentcon-12.jpg)
+
+![Renato palestrando 2](img/agentcon-13.jpg)
