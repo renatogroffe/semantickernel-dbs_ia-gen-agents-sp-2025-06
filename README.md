@@ -43,6 +43,8 @@ Local: **Microsoft Reactor - Rua Jaceru, 225 - Vila Gertrudes - São Paulo - SP 
 
 Acesse este [**link**](/img/) para visualizar todas as fotos/prints da apresentação.
 
+Para acessar a gravação do evento no **YouTube** clique neste [**link**](https://www.youtube.com/watch?v=GbcziMsDG4c).
+
 Deixo aqui meus agradecimentos à **Cynthia Zanoni (Global Cloud Advocate - Microsoft, WoMakersCode)**, à **Larissa Cyganski (Microsoft Reactor)** e ao **Renato Romão (Microsoft MVP)** por todo o apoio para que eu participasse como palestrante deste evento.
 
 ---
