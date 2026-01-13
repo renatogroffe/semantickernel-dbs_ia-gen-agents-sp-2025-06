@@ -39,7 +39,7 @@ Número de participantes: **137 pessoas**
 
 Página do evento: **https://developer.microsoft.com/en-us/reactor/events/26013/?wt.mc_id=1reg_26013_webpage_reactor**
 
-Local: **FIAP - Aclimação - Avenida Lins de Vasconcelos, 1222 - Aclimação - São Paulo-SP - CEP: 01538-001**
+Local: **Microsoft Reactor - Rua Jaceru, 225 - Vila Gertrudes - São Paulo - SP - CEP: 04705-000**
 
 Acesse este [**link**](/img/) para visualizar todas as fotos/prints da apresentação.
 
